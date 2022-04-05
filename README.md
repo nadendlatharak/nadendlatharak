@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadendlatharak
-- 👀 I’m interested in Automation using AI and ML 
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Automation Softwares for the Drones 
+- 👀 I’m interested in Automation Web Technologies abd Building applications 
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking to collaborate on Development of web apps 
 - 📫 How to reach me: Twitter - @nadendlatharak
 
 <!---
