@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nadendlatharak
-- 👀 I’m interested in Automation Web Technologies abd Building applications 
+- 👀 I’m interested in Building Web Sites and Web applications 
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Development of web apps 
 - 📫 How to reach me: Twitter - @nadendlatharak
