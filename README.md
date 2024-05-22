@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadendlatharak
-- 👀 I’m interested in Building Web applications 
-- 📫 How to reach me: Twitter - @nadendlatharak
+- 👀 Building Better Web applications 
+- 📫 How to reach me: Gmail - nadendlatharak@gmail.com
 
 <!---
 nadendlatharak/nadendlatharak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
