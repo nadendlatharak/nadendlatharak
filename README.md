@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nadendlatharak
-- 👀 Building Better Web applications 
+- 👀 Build & Ship Quality Products
 - 📫 How to reach me: Gmail - nadendlatharak@gmail.com
 
 <!---
